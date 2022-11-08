@@ -1,0 +1,11 @@
+controller\LoginUsuarioTwitterController.class
+model\DatosTwitt.class
+view\ServletBorradoTwitt.class
+view\ServletInicioSesionTwitter.class
+model\UsuarioTwitter.class
+controller\MostrarUnTwittController.class
+controller\UsuarioTwitterController_copy.class
+model\EstructuraTwitt.class
+view\ServletBusquedaTwitt.class
+controller\BorrarTwittController.class
+model\BusquedaTwitt.class
